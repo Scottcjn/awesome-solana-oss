@@ -66,6 +66,7 @@ Projects that will may help in your travels as a Solana developer
 | Nautilus               | [Nautilus Project](https://github.com/nautilus-project)                             | No                   | <a href="https://github.com/nautilus-project/nautilus" target="_blank">View</a>            |
 | Splogger               | [Nautilus Project](https://github.com/nautilus-project)                             | No                   | <a href="https://github.com/nautilus-project/splogger" target="_blank">View</a>            |
 | Waverider              | [Nautilus Project](https://github.com/nautilus-project)                             | No                   | <a href="https://github.com/nautilus-project/waverider" target="_blank">View</a>           |
+| Anchor Eventline       | Fabrizio Pfannl                                                                     | Yes                  | <a href="https://github.com/fabriziopfannl/anchor-eventline" target="_blank">View</a> |
 
 <br>
 
