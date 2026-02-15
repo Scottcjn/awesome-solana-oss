@@ -135,15 +135,15 @@ Projects related to validator and client setup and configuration
 
 ## 🪙 Token & NFT Tooling
 Projects related to SPL, Token 2022, and the various NFT standards
-| Name                   | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
-| ---------------------- | ----------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- |
-| Umi                    | [Metaplex](https://twitter.com/metaplex)                                            | Yes                  | <a href="https://github.com/metaplex-foundation/umi" target="_blank">View</a>              |
-| Bubblegum              | [Metaplex](https://twitter.com/metaplex)                                            | Yes                  | <a href="https://github.com/metaplex-foundation/mpl-bubblegum" target="_blank">View</a>    |
-| Inscription            | [Metaplex](https://twitter.com/metaplex)                                            | Yes                  | <a href="https://github.com/metaplex-foundation/mpl-inscription" target="_blank">View</a>  |
-| BYO Mint               | [0xLarry](https://twitter.com/0xLarry8)                                             | Yes                  | <a href="https://github.com/0xlarry/byo_mint" target="_blank">View</a>                     |
-| McBurnJS               | [McDegensDAO](https://twitter.com/McDegensDAO)                                      | Yes                  | <a href="https://github.com/McDegens-DAO/mcburn-js/" target="_blank">View</a>              |
-| cNFT Spam Filter       | [Solarnius](https://twitter.com/solarnius)                                          | Yes                  | <a href="https://github.com/filtoor/cnft-spam-filter" target="_blank">View</a>             |
-| Underdog SDK           | [Underdog](https://twitter.com/backanunderdog)                                      | No                   | <a href="https://github.com/UnderdogProtocol/js" target="_blank">View</a>                  |
+| Name                 | Description  | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
+| ---------------------- | ---------------------------------------- |----------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- |
+| Umi                    | A Solana Framework for JS Clients | [Metaplex](https://twitter.com/metaplex)                                            | Yes                  | <a href="https://github.com/metaplex-foundation/umi" target="_blank">View</a>              |
+| Bubblegum             | Create and manage Metaplex compressed NFTs | [Metaplex](https://twitter.com/metaplex)                                            | Yes                  | <a href="https://github.com/metaplex-foundation/mpl-bubblegum" target="_blank">View</a>    |
+| Inscription            | Writing binary or structured data to Solana | [Metaplex](https://twitter.com/metaplex)                                            | Yes                  | <a href="https://github.com/metaplex-foundation/mpl-inscription" target="_blank">View</a>  |
+| BYO Mint              | A compressed NFT (cNFT) mint program for custom minting and controlled distribution of assets on Solana | [0xLarry](https://twitter.com/0xLarry8)                                             | Yes                  | <a href="https://github.com/0xlarry/byo_mint" target="_blank">View</a>                     |
+| McBurnJS              | A Node.js CLI to burn even the most stubborn of cNFTs | [McDegensDAO](https://twitter.com/McDegensDAO)                                      | Yes                  | <a href="https://github.com/McDegens-DAO/mcburn-js/" target="_blank">View</a>              |
+| cNFT Spam Filter     | An open-source, lightweight, and portable spam classifier for cNFTs on Solana  | [Solarnius](https://twitter.com/solarnius)                                          | Yes                  | <a href="https://github.com/filtoor/cnft-spam-filter" target="_blank">View</a>             |
+| Underdog SDK          | Mint, Manage, and Distribute Core NFTs , Blinks, or SPL Tokens with No-code on Solana | [Underdog](https://twitter.com/backanunderdog)                                      | No                   | <a href="https://github.com/UnderdogProtocol/js" target="_blank">View</a>                  |
 
 <br>
 
