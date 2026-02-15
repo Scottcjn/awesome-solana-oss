@@ -124,12 +124,12 @@ Projects related to payment processing for various use-cases
 
 ## 💾 Client & Validator Tooling
 Projects related to validator and client setup and configuration
-| Name                   | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
-| ---------------------- | ----------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- |
-| Jito Solana            | [Jito Labs](https://twitter.com/jito_sol)                                           | Yes                  | <a href="https://github.com/jito-foundation/jito-solana" target="_blank">View</a>              |
-| Jito Stakenet          | [Jito Labs](https://twitter.com/jito_sol)                                           | Yes                  | <a href="https://github.com/jito-foundation/stakenet" target="_blank">View</a>             |
-| Yellowstone gRPC       | [Triton One](https://triton.one)                                                    | Yes                  | <a href="https://github.com/rpcpool" target="_blank">View</a>                                  |
-| solv                   | [Epics DAO](https://twitter.com/EpicsDAO2)                                          | Yes                  | <a href="https://github.com/EpicsDAO/solv" target="_blank">View</a>                            |
+| Name                  | Description| Team / Dev                                                                          | Actively Maintained? | Link                                                             |
+| ---------------------- | ------------------------------------------------------------- |----------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- |
+| Jito Solana            | Jito Foundation MEV Solana Client | [Jito Labs](https://twitter.com/jito_sol)                                           | Yes                  | <a href="https://github.com/jito-foundation/jito-solana" target="_blank">View</a>              |
+| Jito Stakenet         | Decentralized Solana stake pool manager, blending Validator History and Steward Programs for secure, transparent validator management and autonomous stake operations | [Jito Labs](https://twitter.com/jito_sol)                                           | Yes                  | <a href="https://github.com/jito-foundation/stakenet" target="_blank">View</a>             |
+| Yellowstone gRPC      | Triton's Dragon's Mouth Yellowstone gRPC service for high-performance Solana streaming | [Triton One](https://triton.one)                                                    | Yes                  | <a href="https://github.com/rpcpool" target="_blank">View</a>                                  |
+| solv                 | CLI Tool for Managing Solana Validators  | [Epics DAO](https://twitter.com/EpicsDAO2)                                          | Yes                  | <a href="https://github.com/EpicsDAO/solv" target="_blank">View</a>                            |
 
 <br>
 
