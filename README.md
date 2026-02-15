@@ -112,13 +112,13 @@ Projects related to general infrastructure
 
 ## 💸 Payments
 Projects related to payment processing for various use-cases
-| Name                   | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
-| ---------------------- | ----------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- |
-| Stockpile Grants Stack | [Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/StockpileLabs/stockpile-lite" target="_blank">View</a>         |
-| Trusts Protocol        | [Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/joeymeere/trusts" target="_blank">View</a>                     |
-| Code Program Library   | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-program-library" target="_blank">View</a>   |
-| Code Android App       | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-android-app" target="_blank">View</a>       |
-| Stockpile v2           | [Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/StockpileLabs/stockpile-v2" target="_blank">View</a>           |
+| Name                 | Desription  | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
+| ---------------------- |------------------------------------------------------ |----------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- |
+| Stockpile Grants Stack | An on-chain quadratic funding grants stack on Solana |[Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/StockpileLabs/stockpile-lite" target="_blank">View</a>         |
+| Trusts Protocol        | Trusts Protocol is an on-chain primitive for yield contributions that allows you to leverage a variety of DeFi protocols to make recurring contributions to multiple different wallets | [Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/joeymeere/trusts" target="_blank">View</a>                     |
+| Code Program Library   | A collection of on-chain programs targeting the Solana Sealevel runtime | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-program-library" target="_blank">View</a>   |
+| Code Android App      | A mobile wallet app leveraging self-custodial blockchain technology to deliver an instant, global, and private payments experience | [GetCode](https://twitter.com/getcode)                                              | Yes                  | <a href="https://github.com/code-payments/code-android-app" target="_blank">View</a>       |
+| Stockpile v2           | Decentralized funding engine for the open-internet | [Joey Meere](https://twitter.com/joeymeere)                                         | Yes                  | <a href="https://github.com/StockpileLabs/stockpile-v2" target="_blank">View</a>           |
 
 <br>
 
