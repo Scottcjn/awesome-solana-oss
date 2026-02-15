@@ -154,17 +154,17 @@ Educational content related to building on Solana
 | Solana Playground      | nline IDE that allows you to quickly develop, deploy and test [Solana](https://docs.solana.com/introduction) programs | [Solana Playground](https://github.com/solana-playground)                           | Yes                  | <a href="https://github.com/solana-playground/solana-playground" target="_blank">View</a>  |
 | Zircon              |  A hub for guided and gamified courses, coding challenges reminiscent of LeetCode, and a sandbox for sharing Solana-related code snippets within minutes   | [Joey Meere](https://github.com/joeymeere)                                          | No                   | <a href="https://github.com/joeymeere/zircon" target="_blank">View</a>                     |
 | Pyre                   | An educational app that teaches users about Helius and Solana development | [Helius](https://twitter.com/heliuslabs)                                            | No                   | <a href="https://github.com/helius-labs/pyre" target="_blank">View</a>                     |
-| SolWebKit                | A place to quickly find that sneaky little snippet from Solana Kit   | [Metasal](https://twitter.com/metasal_)                                            | Yes                  | <a href="https://github.com/metasal1/solana-web3-v2-demo" target="_blank">View</a>                     |
+| SolWebKit                | A place to quickly find that sneaky little snippet from Solana   | [Metasal](https://twitter.com/metasal_)                                            | Yes                  | <a href="https://github.com/metasal1/solana-web3-v2-demo" target="_blank">View</a>                     |
 
 <br>
 
 ## 📊 Data
 Projects related to on-chain data
-| Name                   | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
-| ---------------------- | ----------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- |
-| Xray                   | [Helius](https://twitter.com/heliuslabs)                                            | Yes                  | <a href="https://github.com/helius-labs/xray" target="_blank">View</a>                     |
-| Explorer Kit           | [SolanaFM](https://twitter.com/solanafm)                                            | Yes                  | <a href="https://github.com/solana-fm/explorer-kit" target="_blank">View</a>               |
-| SOL CLI Explorer       | [cavemanloverboy](https://github.com/cavemanloverboy)                               | Yes                  | <a href="https://github.com/cavemanloverboy/sol" target="_blank">View</a>                  |
+| Name                 | Description  | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
+| ---------------------- | ------------------------------------------------- |----------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- |
+| Xray                   | A human-readable Solana transaction explorer powered by Helius | [Helius](https://twitter.com/heliuslabs)                                            | Yes                  | <a href="https://github.com/helius-labs/xray" target="_blank">View</a>                     |
+| Explorer Kit           | Public Solana Data Parser | [SolanaFM](https://twitter.com/solanafm)                                            | Yes                  | <a href="https://github.com/solana-fm/explorer-kit" target="_blank">View</a>               |
+| SOL CLI Explorer       | A command line explorer for the Solana Blockchain | [cavemanloverboy](https://github.com/cavemanloverboy)                               | Yes                  | <a href="https://github.com/cavemanloverboy/sol" target="_blank">View</a>                  |
 
 <br>
 
