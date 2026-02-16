@@ -170,15 +170,15 @@ Projects related to on-chain data
 
 ## 💼 Wallets
 Wallet interfaces
-| Name                    | Team                                           | Actively Maintained? | Stack                | License     | Link                                                                                       |
-| ----------------------- | ---------------------------------------------- | -------------------- | -------------------- | ----------- | ------------------------------------------------------------------------------------------ |
-| Helium Wallet App       | [Helium](https://x.com/helium)                 | Yes                  | TS, React Native     | Apache 2.0  | <a href="https://github.com/helium/wallet-app" target="_blank">View</a>                     |
-| Espresso Cash           | [Espresso Cash](https://x.com/espresso_cash)   | Yes                  | Dart, Flutter        | GNU         | <a href="https://github.com/espresso-cash/espresso-cash-public" target="_blank">View</a>      |
-| Unruggable              | [Unruggable](https://x.com/unruggable_io)      | Yes                  | Rust, Dioxus         | TBD         | <a href="https://github.com/hogyzen12/unruggable-app" target="_blank">View</a>               |
-| Darklake Android Wallet | [Darklake Labs](https://x.com/darklakefi)      | Yes                  | Kotlin               | GNU         | <a href="https://github.com/darklakefi/android-wallet" target="_blank">View</a>               |
-| Gem Wallet Android      | [Gem Wallet](https://x.com/GemWalletApp)       | Yes                  | Kotlin, Compose      | GPL-3.0     | <a href="https://github.com/gemwalletcom/gem-android" target="_blank">View</a>               |
-| Gem Wallet iOS          | [Gem Wallet](https://x.com/GemWalletApp)       | Yes                  | Swift                | GPL-3.0     | <a href="https://github.com/gemwalletcom/gem-ios" target="_blank">View</a>               |
-| Alpha Wallet            | [Cloakd](https://x.com/CloakdDev)              | No                   | JS, Chrome Extension | MIT         | <a href="https://github.com/alphabatem/alpha-wallet" target="_blank">View</a>               |
+| Name                 | Description   | Team                                           | Actively Maintained? | Stack                | License     | Link                                                                                       |
+| ----------------------- | ------------------------------------------------------ |---------------------------------------------- | -------------------- | -------------------- | ----------- | ------------------------------------------------------------------------------------------ |
+| Helium Wallet App     | An open-source Solana wallet designed for the Helium ecosystem. With this app, you can manage your accounts and identity on the Helium network, view transactions, import multiple accounts, and even vote  | [Helium](https://x.com/helium)                 | Yes                  | TS, React Native     | Apache 2.0  | <a href="https://github.com/helium/wallet-app" target="_blank">View</a>                     |
+| Espresso Cash        | Securely send money anywhere in the world using the digital dollar USDC   | [Espresso Cash](https://x.com/espresso_cash)   | Yes                  | Dart, Flutter        | GNU         | <a href="https://github.com/espresso-cash/espresso-cash-public" target="_blank">View</a>      |
+| Unruggable             | The Hardware Wallet Engineered for Solana | [Unruggable](https://x.com/unruggable_io)      | Yes                  | Rust, Dioxus         | TBD         | <a href="https://github.com/hogyzen12/unruggable-app" target="_blank">View</a>               |
+| Darklake Android Wallet | This directory contains the CI/CD workflows for DarklakeWallet, all powered by Fastlane | [Darklake Labs](https://x.com/darklakefi)      | Yes                  | Kotlin               | GNU         | <a href="https://github.com/darklakefi/android-wallet" target="_blank">View</a>               |
+| Gem Wallet Android      | Open Source Android Crypto Wallet | [Gem Wallet](https://x.com/GemWalletApp)       | Yes                  | Kotlin, Compose      | GPL-3.0     | <a href="https://github.com/gemwalletcom/gem-android" target="_blank">View</a>               |
+| Gem Wallet iOS       | Open Source Android Crypto Wallet   | [Gem Wallet](https://x.com/GemWalletApp)       | Yes                  | Swift                | GPL-3.0     | <a href="https://github.com/gemwalletcom/gem-ios" target="_blank">View</a>               |
+| Alpha Wallet            | Open Source Solana Wallet | [Cloakd](https://x.com/CloakdDev)              | No                   | JS, Chrome Extension | MIT         | <a href="https://github.com/alphabatem/alpha-wallet" target="_blank">View</a>               |
 
 
 <br>
