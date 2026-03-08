@@ -192,3 +192,11 @@ Projects that lack a specific category listed above
 | Jinbag                 | [shockz09](https://github.com/shockz09)                                             | Yes                  | <a href="https://github.com/shockz09/Jinbag" target="_blank">View</a>        |
 | marketplace contracts  | [SoundworkSounds](https://x.com/SoundworkSounds/)                                   | Yes                  | <a href="https://github.com/SoundWorkLabs/marketplace-contracts" target="_blank">View</a> |
 | Solana Auth            | [Crossmint](https://twitter.com/crossmint)                                          | No                   | <a href="https://github.com/Crossmint/solana-auth" target="_blank">View</a>  |
+
+---
+
+### Part of the Elyan Labs Ecosystem
+
+- [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
+- [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
+- [GitHub](https://github.com/Scottcjn)
