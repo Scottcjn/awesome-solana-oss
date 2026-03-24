@@ -66,6 +66,7 @@ Projects that will may help in your travels as a Solana developer
 | Nautilus        | SQL-native Solana program framework       | [Nautilus Project](https://github.com/nautilus-project)                             | No                   | <a href="https://github.com/nautilus-project/nautilus" target="_blank">View</a>            |
 | Splogger            | Solana logging framework   | [Nautilus Project](https://github.com/nautilus-project)                             | No                   | <a href="https://github.com/nautilus-project/splogger" target="_blank">View</a>            |
 | Waverider         | Geyser plugin that streams Solana account changes to PostgREST     | [Nautilus Project](https://github.com/nautilus-project)                             | No                   | <a href="https://github.com/nautilus-project/waverider" target="_blank">View</a>           |
+| Anchor Eventline  | Standardized Anchor events + TypeScript SDK for reliable off-chain indexing.     | Fabrizio Pfannl                                                                     | Yes                  | <a href="https://github.com/fabriziopfannl/anchor-eventline" target="_blank">View</a> |
 
 <br>
 
