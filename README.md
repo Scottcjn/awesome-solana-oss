@@ -28,7 +28,7 @@ Projects that are worth looking into for new developers
 <br>
 
 ## 💻 Dev Tooling
-Projects that will may help in your travels as a Solana developer
+Projects that may help in your travels as a Solana developer
 | Name                   | Team / Dev                                                                          | Actively Maintained? | Link                                                             |
 | ---------------------- | ----------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- |
 | Anchor                 | [Coral](https://twitter.com/xNFT_Backpack)                                          | Yes                  | <a href="https://github.com/coral-xyz/anchor" target="_blank">View</a>                     |
