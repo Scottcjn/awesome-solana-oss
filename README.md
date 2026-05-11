@@ -2,7 +2,7 @@
 
 [![Awesome](https://i.imgur.com/fZVEgpL.png)](https://github.com/sindresorhus/awesome)
 
-_A curated compilation of awesome open-source Solana repositories on Github._
+_A curated compilation of awesome open-source Solana repositories on GitHub._
 
 This repo is for:
 
